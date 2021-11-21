@@ -1,0 +1,27 @@
+CRITICAL - 2021-11-21 05:19:49 --> Invalid file: mahasiswa_view.php
+#0 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view....')
+#1 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('mahasiswa_view', Array, true)
+#2 C:\xampp\htdocs\ci4crud\app\Controllers\mahasiswa.php(93): view('mahasiswa_view', Array)
+#3 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\mahasiswa->index()
+#4 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mahasiswa))
+#5 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4crud\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-21 05:20:49 --> Invalid file: mahasiswa_view.php
+#0 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view....')
+#1 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('mahasiswa_view', Array, true)
+#2 C:\xampp\htdocs\ci4crud\app\Controllers\mahasiswa.php(93): view('mahasiswa_view', Array)
+#3 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\mahasiswa->index()
+#4 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mahasiswa))
+#5 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4crud\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-21 05:20:52 --> Invalid file: mahasiswa_view.php
+#0 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa_view....')
+#1 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\Common.php(1097): CodeIgniter\View\View->render('mahasiswa_view', Array, true)
+#2 C:\xampp\htdocs\ci4crud\app\Controllers\mahasiswa.php(93): view('mahasiswa_view', Array)
+#3 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(824): App\Controllers\mahasiswa->index()
+#4 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\mahasiswa))
+#5 C:\xampp\htdocs\ci4crud\vendor\codeigniter4\framework\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\ci4crud\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
